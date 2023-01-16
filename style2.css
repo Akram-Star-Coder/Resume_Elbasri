@@ -1,0 +1,51 @@
+html{
+    background-color: #000;
+}
+
+
+fieldset
+{
+  background-color:rgb(255, 255, 255);
+  max-width:500px;
+  padding:32px;	
+  position:relative;
+  top: 2px;
+  left: 350px;
+}
+
+.mobile{
+    background: none;
+    position:relative;
+    top: 0px;
+    left: 100px;
+}
+
+.gmail{
+    background: none;
+    position:relative;
+    top: 25px;
+    left: 100px;
+}
+
+.Linkedin{
+    background: none;
+    position:relative;
+    top: 50px;
+    left: 100px;
+}
+
+
+
+
+
+.lol{
+    background-color: rgb(255, 255, 255);
+}
+legend
+{
+    margin-bottom:0px;
+    margin-left:0px;
+    font-family: Times;
+    font-size: 25px;
+    
+}
